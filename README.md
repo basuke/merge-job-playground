@@ -5,3 +5,7 @@ This is a sample project for merge job development. You should have two branches
 Intermediate merge branches are created on demand. For example, `merge/badbeef` is created for the merge job which is merging the commit with the hash `badbeef`. The `merge/badbeef` branch is merged into the `develop` branch and is deleted after that.
 
 When build error happens, then merge branch is not merged and not deleted. You can check the build error by checking the `merge/badbeef` branch.
+
+## How to use
+
+TBD.
