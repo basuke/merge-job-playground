@@ -8,4 +8,4 @@ When build error happens, then merge branch is not merged and not deleted. You c
 
 ## How to use
 
-TBD. I don't know how to use this project yet.
+TBD.
