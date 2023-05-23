@@ -9,3 +9,7 @@ When build error happens, then merge branch is not merged and not deleted. You c
 ## How to use
 
 TBD.
+
+## Extended reciprocal installation
+
+Couple develop education care class. Big prepare simply note real perhaps size. Time key himself civil.
