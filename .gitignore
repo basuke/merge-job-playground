@@ -2,3 +2,4 @@ task.log
 
 # Ignore build directory
 build/
+.vscode/
