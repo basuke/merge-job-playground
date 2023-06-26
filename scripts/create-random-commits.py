@@ -46,10 +46,16 @@ def create_random_commit(repo: Repo, title: str = "") -> None:
     Add random change to README.md and commit the change with random commit message.
     """
     if not title:
-        title = f"""{fake.catch_phrase()} Reported by: {fake.name()}"""
+        title = f"""{fake.catch_phrase()} Reported by {fake.name()}"""
 
     section = f"""
 ## {title}
+
+{fake.date_time()} at {fake.city()}
+
+{fake.paragraph()} {fake.paragraph()} {fake.paragraph()} {fake.paragraph()}
+
+{fake.paragraph()} {fake.paragraph()} {fake.paragraph()} {fake.paragraph()}
 
 {fake.paragraph()} {fake.paragraph()} {fake.paragraph()} {fake.paragraph()}
 """
