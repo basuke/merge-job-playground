@@ -24,7 +24,6 @@
  */
 
 #include <cstdio>
-#include <sys/mman2.h>
 #include <sys/mman.h>
 #include <kernel_sys.h>
 #include <unistd.h>
