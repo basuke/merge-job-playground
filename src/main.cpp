@@ -29,6 +29,7 @@
 #include <unistd.h>
 #include <memory.h>
 #include <unknown.h>
+#include <unknown2.h>
 
 int main(int, char* [])
 {
@@ -36,5 +37,5 @@ int main(int, char* [])
     printf("Welcome. This sample tries to figure out how clean_anon works.\n");
     printf("pid = %d\n", getpid());
 
-    return 0
+    return 0;
 }
