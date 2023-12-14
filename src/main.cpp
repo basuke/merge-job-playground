@@ -29,6 +29,7 @@
 #include <unistd.h>
 #include <memory.h>
 #include <unknown.h>
+#include <unknown2.h>
 
 int main(int, char* [])
 {
