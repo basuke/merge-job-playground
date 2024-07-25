@@ -35,6 +35,4 @@ int main(int, char* [])
     // should be run with break point here
     printf("Welcome. This sample tries to figure out how clean_anon works.\n");
     printf("pid = %d\n", getpid());
-
-    return 0;
 }
